@@ -1,3 +1,11 @@
+## Messaging prototype-v2
+
+This app was made with NextJs, styled components, firebase, firebase hooks and deployed to Vercel
+Working demo: https://messaging-app-prototype-v2.vercel.app/
+
+This app is for learning purposes, not all functionallity is working
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
