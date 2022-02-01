@@ -1,7 +1,7 @@
 import '../styles/globals.css'
 import { useAuthState } from 'react-firebase-hooks/auth'
 import { db, auth } from '../firebase'
-import Login from './Login'
+import Login from './login'
 import Loading from '../components/Loading'
 import { useEffect } from 'react'
 import firebase from 'firebase/compat/app'
